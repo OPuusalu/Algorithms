@@ -3,12 +3,12 @@ package AbiFailid;
 import ee.ut.dendroloj.Dendrologist;
 
 public class KOTipp {
-    int väärtus;
-    KOTipp v;
-    KOTipp p;
+    public int väärtus;
+    public KOTipp v;
+    public KOTipp p;
     int x; // abiväli
 
-    KOTipp(int väärtus, KOTipp v, KOTipp p) {
+    public KOTipp(int väärtus, KOTipp v, KOTipp p) {
         this.väärtus = väärtus;
         this.v = v;
         this.p = p;
