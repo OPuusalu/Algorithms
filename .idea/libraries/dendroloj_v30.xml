@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dendroloj-v30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dendroloj-v30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/dendroloj-v30.jar!/" />
+    </SOURCES>
+  </library>
+</component>
