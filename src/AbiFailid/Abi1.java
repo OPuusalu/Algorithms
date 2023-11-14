@@ -1,4 +1,6 @@
-package P10;
+package AbiFailid;
+
+import P10.Tipp;
 import ee.ut.dendroloj.Dendrologist;
 import java.util.concurrent.ThreadLocalRandom;
 
