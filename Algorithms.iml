@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="dendroloj-v21" level="project" />
     <orderEntry type="library" name="dendroloj-v30" level="project" />
+    <orderEntry type="library" name="dendroloj-v37" level="project" />
   </component>
 </module>
